@@ -1,3 +1,10 @@
 .idea/*
-.iml
-.idea
+*.iml
+.classpath
+.project
+.settings/
+target/
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+.gitignore
